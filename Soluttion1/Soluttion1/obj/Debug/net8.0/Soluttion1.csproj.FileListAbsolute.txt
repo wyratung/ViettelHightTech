@@ -1,0 +1,14 @@
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\bin\Debug\net8.0\Soluttion1.exe
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\bin\Debug\net8.0\Soluttion1.deps.json
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\bin\Debug\net8.0\Soluttion1.runtimeconfig.json
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\bin\Debug\net8.0\Soluttion1.dll
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\bin\Debug\net8.0\Soluttion1.pdb
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.AssemblyInfoInputs.cache
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.AssemblyInfo.cs
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.csproj.CoreCompileInputs.cache
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.dll
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\refint\Soluttion1.dll
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.pdb
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\Soluttion1.genruntimeconfig.cache
+C:\Users\Wyra\Desktop\New folder\Soluttion1\Soluttion1\obj\Debug\net8.0\ref\Soluttion1.dll
